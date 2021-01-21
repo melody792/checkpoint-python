@@ -23,8 +23,6 @@ var/
 .installed.cfg
 *.egg
 .gradle/
-gradle-4.9/
-activate
 src/proto/
 **/.DS_Store
 *.jar
